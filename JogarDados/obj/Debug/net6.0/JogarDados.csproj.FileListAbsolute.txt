@@ -1,0 +1,14 @@
+C:\Users\G_Per\Documents\Códigos\Biblioteca\C#\JogarDados\JogarDados\bin\Debug\net6.0\JogarDados.exe
+C:\Users\G_Per\Documents\Códigos\Biblioteca\C#\JogarDados\JogarDados\bin\Debug\net6.0\JogarDados.deps.json
+C:\Users\G_Per\Documents\Códigos\Biblioteca\C#\JogarDados\JogarDados\bin\Debug\net6.0\JogarDados.runtimeconfig.json
+C:\Users\G_Per\Documents\Códigos\Biblioteca\C#\JogarDados\JogarDados\bin\Debug\net6.0\JogarDados.dll
+C:\Users\G_Per\Documents\Códigos\Biblioteca\C#\JogarDados\JogarDados\bin\Debug\net6.0\JogarDados.pdb
+C:\Users\G_Per\Documents\Códigos\Biblioteca\C#\JogarDados\JogarDados\obj\Debug\net6.0\JogarDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G_Per\Documents\Códigos\Biblioteca\C#\JogarDados\JogarDados\obj\Debug\net6.0\JogarDados.AssemblyInfoInputs.cache
+C:\Users\G_Per\Documents\Códigos\Biblioteca\C#\JogarDados\JogarDados\obj\Debug\net6.0\JogarDados.AssemblyInfo.cs
+C:\Users\G_Per\Documents\Códigos\Biblioteca\C#\JogarDados\JogarDados\obj\Debug\net6.0\JogarDados.csproj.CoreCompileInputs.cache
+C:\Users\G_Per\Documents\Códigos\Biblioteca\C#\JogarDados\JogarDados\obj\Debug\net6.0\JogarDados.dll
+C:\Users\G_Per\Documents\Códigos\Biblioteca\C#\JogarDados\JogarDados\obj\Debug\net6.0\refint\JogarDados.dll
+C:\Users\G_Per\Documents\Códigos\Biblioteca\C#\JogarDados\JogarDados\obj\Debug\net6.0\JogarDados.pdb
+C:\Users\G_Per\Documents\Códigos\Biblioteca\C#\JogarDados\JogarDados\obj\Debug\net6.0\JogarDados.genruntimeconfig.cache
+C:\Users\G_Per\Documents\Códigos\Biblioteca\C#\JogarDados\JogarDados\obj\Debug\net6.0\ref\JogarDados.dll
