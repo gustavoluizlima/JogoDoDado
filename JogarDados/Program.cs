@@ -19,7 +19,7 @@ namespace JogarDados
             while (pnome == snome)
             {
                 Console.Clear();
-                Console.WriteLine("Os nomes não pode ser iguais!");
+                Console.WriteLine("Os nomes não podem ser iguais!");
                 Console.WriteLine(Environment.NewLine);
                 Console.WriteLine("Digite o nome do Segundo Jogador: ");
                 snome = Console.ReadLine();
